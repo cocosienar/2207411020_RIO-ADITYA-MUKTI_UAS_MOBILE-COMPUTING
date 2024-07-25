@@ -1,7 +1,5 @@
-Berikut adalah contoh README yang rapi dan informatif untuk mengunggah source code dari file yang Anda berikan. README ini berisi deskripsi proyek, instruksi instalasi, dan panduan penggunaan.
-
----
-
+============================================================================================
+# 2207411020_RIO ADITYA MUKTI
 # Mobile Computing Project
 
 ## Deskripsi Proyek
@@ -129,3 +127,5 @@ Berikut adalah gambaran umum dari struktur proyek:
 3. Tambahkan izin lokasi pada file `AndroidManifest.xml` dan `Info.plist`.
 
 4. Ubah file `lib/main.dart` sesuai dengan kebutuhan Anda dan jalankan aplikasi dengan `flutter run`.
+
+============================================================================================
